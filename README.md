@@ -5,7 +5,7 @@
 
   ## Project Overview
 
-  This project involves a comprehensive sales analysis using Power BI and SQL to create an interactive dashboard. The dashboard provides key insights into sales performance, transaction patterns, customer behavior, and product performance.
+  This project involves a comprehensive sales analysis using SQL and Power BI to create an interactive dashboard. The dashboard provides key insights into sales performance, transaction patterns, customer behavior, and product performance.
 
 
 
@@ -13,7 +13,7 @@
 
 
 
-  **SQL Queries:** Data extraction, aggregation, and transformation using SQL queries.
+  **SQL Queries:** Data extraction, cleaning, aggregation, and transformation using SQL queries.
 
   **Power BI Dashboard:** Visual representation of sales data through various charts and graphs.
 
