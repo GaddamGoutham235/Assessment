@@ -5,7 +5,7 @@
 
   ## Project Overview
 
-  This project involves a comprehensive sales analysis using SQL and Power BI to create an interactive dashboard. The dashboard provides key insights into sales performance, transaction patterns, customer behavior, and product performance.
+  This project involves a comprehensive sales analysis using MySQL and Power BI to create an interactive dashboard. The dashboard provides key insights into sales performance, transaction patterns, customer behavior, and product performance.
 
 
 
@@ -62,7 +62,7 @@
 
   ## Technologies Used
 
-\- SQL
+\- MySQL
 
   \- Power BI
 
